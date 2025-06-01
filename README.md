@@ -11,9 +11,6 @@ You can view the live version of my portfolio here: [Add your live link here]
 ```
 portfolio-website/
 │── index.html          # Home or About Me page
-│── resume.html         # Embedded resume page
-│── projects.html       # Showcases all projects
-│── contact.html        # Contact information page
 │── styles.css          # Main styling file
 │── script.js           # JavaScript functionality
 │── images/             # Folder containing project images & profile pic
@@ -82,9 +79,9 @@ cd portfolio-website
 ---
 
 ## 📫 Contact
-- **Name:** [Your Full Name]
-- **Email:** [your-email@example.com]
-- **Location:** Tirupati, [Street Name Here]
+- **Name:** [Rohithachandhauru]
+- **Email:** [Rohithachandhauru@gmail.com]
+- **Location:** Tirupati
 
 ---
 
