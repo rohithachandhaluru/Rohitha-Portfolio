@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project is designed to showcase my skills, resume, projects, and contact details—all in one simple and elegant platform.
 
 ## 🔗 Live Demo
-You can view the live version of my portfolio here: [Add your live link here]
+You can view the live version of my portfolio here: [https://rohithachandhaluru.github.io/Rohitha-Portfolio/]
 
 ---
 
@@ -84,7 +84,15 @@ cd portfolio-website
 - **Location:** Tirupati
 
 ---
+## 📫 Images
+About page:
+![image](https://github.com/user-attachments/assets/7ea55af7-2f74-4c57-88d2-415f4f21f038)
+Resume page:
+![image](https://github.com/user-attachments/assets/9ad6433c-8992-4288-9305-3e059989608c)
+Portfolio page:
+![image](https://github.com/user-attachments/assets/bb6f5268-5d76-485e-b5ef-a6fa3ac4baab)
 
+---
 ## 📜 License
 This project is open-source and available under the MIT License.
 
